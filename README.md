@@ -1,4 +1,4 @@
-# NOTCollaborative Project
+# Collaborative Project
 
 ## Useful Resources
 
