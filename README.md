@@ -1,4 +1,5 @@
-# NOTCollaborative Project
+# Collaborative Project causing issues
+
 
 ## Useful Resources
 
